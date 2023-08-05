@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/Misia_photo.de/static/css/main.10cf0bf4.css",
-    "main.js": "/Misia_photo.de/static/js/main.be7af834.js",
+    "main.css": "/Misia_photo.de/static/css/main.49e339f4.css",
+    "main.js": "/Misia_photo.de/static/js/main.c1d7e513.js",
     "static/js/787.d3acb0bf.chunk.js": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js",
     "static/media/title_photo.png": "/Misia_photo.de/static/media/title_photo.1f65455d0b1a78a5c597.png",
     "static/media/second_image.png": "/Misia_photo.de/static/media/second_image.731403608c6c5505c101.png",
+    "static/media/women2.png": "/Misia_photo.de/static/media/women2.5efc0ee9830ad0eae38b.png",
+    "static/media/women.png": "/Misia_photo.de/static/media/women.3fd76bb21fdee6f3e472.png",
+    "static/media/man.png": "/Misia_photo.de/static/media/man.3e7193b681c83a960f6f.png",
     "index.html": "/Misia_photo.de/index.html",
+    "static/media/arrow-white.svg": "/Misia_photo.de/static/media/arrow-white.cead44f275bee3f4c3cd7095d9638b08.svg",
     "static/media/arrow-down.svg": "/Misia_photo.de/static/media/arrow-down.502ced3d9934385537988cb49a532ba0.svg",
-    "main.10cf0bf4.css.map": "/Misia_photo.de/static/css/main.10cf0bf4.css.map",
-    "main.be7af834.js.map": "/Misia_photo.de/static/js/main.be7af834.js.map",
+    "main.49e339f4.css.map": "/Misia_photo.de/static/css/main.49e339f4.css.map",
+    "main.c1d7e513.js.map": "/Misia_photo.de/static/js/main.c1d7e513.js.map",
     "787.d3acb0bf.chunk.js.map": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10cf0bf4.css",
-    "static/js/main.be7af834.js"
+    "static/css/main.49e339f4.css",
+    "static/js/main.c1d7e513.js"
   ]
 }

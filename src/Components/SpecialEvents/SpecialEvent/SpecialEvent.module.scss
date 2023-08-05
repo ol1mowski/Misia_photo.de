@@ -1,0 +1,62 @@
+.specialEventWrapper {
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 5%;
+    gap: 10%;
+    @media screen and (min-width: 370px) {
+        height: 65vh;
+    }
+    @media screen and (min-width: 470px) {
+        height: 75vh;
+    }
+    @media screen and (min-width: 900px) {
+        height: 85vh;
+    }
+    @media screen and (min-width: 1024px) {
+        width: 20vw;
+    }
+    @media (orientation: landscape)and (min-width: 320px) and (max-width: 920px) {
+        height: 200vh;
+        padding: 10% 0;
+    }
+    @media (orientation: landscape)and (min-width: 350px) and (max-width: 920px) {
+        height: 150vh;
+    }
+    &__contentWrapper {
+        padding: 0 5rem;
+        @media screen and (min-width: 420px) {
+            padding: 0 7rem;
+        }
+        @media screen and (min-width: 500px) {
+            padding: 0 10rem;
+        }
+        @media screen and (min-width: 650px) {
+            padding: 0 15rem;
+        }
+        @media screen and (min-width: 800px) {
+            padding: 0 20rem;
+        }
+        @media screen and (min-width: 1024px) {
+            padding: 0 1rem;
+        }
+    }
+    &__icon {
+        width: 7%;
+        rotate: 270deg;
+    }
+    &__img {
+        width: 60%;
+        @media screen and (min-width: 500px) {
+            width: 50%;
+        }
+        @media screen and (min-width: 750px) {
+            width: 40%;
+        }
+        @media screen and (min-width: 1024px) {
+            width: 90%;
+        }
+    }
+}

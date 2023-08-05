@@ -1,0 +1,30 @@
+.eventsWrapper {
+    width: 100vw;
+    height: 100%;
+    background-color: #c48b7a;
+    color: #e0e0d5;
+    &__header {
+        font-family: 'Dancing Script', cursive;
+        font-size: 2.5rem;
+        padding: 1rem;
+        @media screen and (min-width: 400px) {
+            padding: 2rem;
+            font-size: 3.5rem;
+        }
+        @media screen and (min-width: 550px) {
+            padding: 4rem;
+            font-size: 4.5rem;
+        }
+        @media screen and (min-width: 1500px) {
+            font-size: 6.5rem;
+        }
+    }
+    &__wrapper {
+        @media screen and (min-width: 1024px) {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 5%;
+        }
+    }
+}

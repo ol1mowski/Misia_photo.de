@@ -1,9 +1,10 @@
-.clientWrapper {
-    height: 55vh;
+.eventWrapper {
+    height: 75vh;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding-bottom: 5%;
     gap: 10%;
     @media screen and (min-width: 370px) {
         height: 65vh;
@@ -22,8 +23,7 @@
         padding: 10% 0;
     }
     @media (orientation: landscape)and (min-width: 350px) and (max-width: 920px) {
-        height: 100vh;
-        padding: 5% 0;
+        height: 150vh;
     }
     &__contentWrapper {
         padding: 0 5rem;
@@ -48,9 +48,12 @@
         rotate: 270deg;
     }
     &__img {
-        width: 40%;
-        @media screen and (min-width: 650px) {
-            width: 30%;
+        width: 60%;
+        @media screen and (min-width: 500px) {
+            width: 50%;
+        }
+        @media screen and (min-width: 750px) {
+            width: 40%;
         }
         @media screen and (min-width: 1024px) {
             width: 90%;

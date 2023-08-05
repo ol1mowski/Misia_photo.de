@@ -1,0 +1,18 @@
+.clientWrapper {
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10%;
+    &__contentWrapper {
+        padding: 0 5rem;
+    }
+    &__icon {
+        width: 7%;
+        rotate: 270deg;
+    }
+    &__img {
+        width: 50%;
+    }
+}

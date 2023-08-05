@@ -1,0 +1,14 @@
+.clientsContainer {
+    width: 100vw;
+    height: 100%;
+    background-color: #7a6d4e;
+    &__header {
+        color: #c48b7a;
+        font-family: 'Dancing Script', cursive;
+        font-size: 1.5rem;
+        padding: 1rem;
+        &__h2 {
+            margin-left: 15%;
+        }
+    }
+}

@@ -7,8 +7,27 @@
         font-family: 'Dancing Script', cursive;
         font-size: 1.5rem;
         padding: 1rem;
+        @media screen and (min-width: 650px) {
+            font-size: 2.5rem;
+            text-align: center;
+        }
+        @media screen and (min-width: 1024px) {
+            padding: 2rem;
+            font-size: 3.5rem;
+        }
+        @media screen and (min-width: 1500px) {
+            font-size: 4.5rem;
+        }
         &__h2 {
             margin-left: 15%;
+        }
+    }
+    &__wrapper {
+        @media screen and (min-width: 1024px) {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 5%;
         }
     }
 }

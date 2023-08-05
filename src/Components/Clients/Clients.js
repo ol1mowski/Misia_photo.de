@@ -13,7 +13,7 @@ const Clients = () => {
             name: 'Natalia',
             description: 'Zdjęcie portretowe z okazji okrągłych urodzi',
         },
-        {  
+        {
             id: 2,
             img: man,
             name: 'Alex',
@@ -39,14 +39,16 @@ const Clients = () => {
                         PORTRETOWA
                     </h2>
                 </div>
-                {clients.map((item) => 
-                    <Client 
-                        img={item.img}
-                        name={item.name}
-                        description={item.description}
-                        key={item.id}
-                    />
-                )}
+                <div className={style.clientsContainer__wrapper}>
+                    {clients.map((item) =>
+                        <Client
+                            img={item.img}
+                            name={item.name}
+                            description={item.description}
+                            key={item.id}
+                        />
+                    )}
+                </div>
             </section>
         </>
     )

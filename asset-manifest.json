@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Misia_photo.de/static/css/main.87c6ed86.css",
-    "main.js": "/Misia_photo.de/static/js/main.e9a262a1.js",
+    "main.css": "/Misia_photo.de/static/css/main.10cf0bf4.css",
+    "main.js": "/Misia_photo.de/static/js/main.be7af834.js",
     "static/js/787.d3acb0bf.chunk.js": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js",
     "static/media/title_photo.png": "/Misia_photo.de/static/media/title_photo.1f65455d0b1a78a5c597.png",
+    "static/media/second_image.png": "/Misia_photo.de/static/media/second_image.731403608c6c5505c101.png",
     "index.html": "/Misia_photo.de/index.html",
-    "main.87c6ed86.css.map": "/Misia_photo.de/static/css/main.87c6ed86.css.map",
-    "main.e9a262a1.js.map": "/Misia_photo.de/static/js/main.e9a262a1.js.map",
+    "static/media/arrow-down.svg": "/Misia_photo.de/static/media/arrow-down.502ced3d9934385537988cb49a532ba0.svg",
+    "main.10cf0bf4.css.map": "/Misia_photo.de/static/css/main.10cf0bf4.css.map",
+    "main.be7af834.js.map": "/Misia_photo.de/static/js/main.be7af834.js.map",
     "787.d3acb0bf.chunk.js.map": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87c6ed86.css",
-    "static/js/main.e9a262a1.js"
+    "static/css/main.10cf0bf4.css",
+    "static/js/main.be7af834.js"
   ]
 }

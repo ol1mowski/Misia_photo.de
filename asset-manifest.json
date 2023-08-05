@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Misia_photo.de/static/css/main.87c6ed86.css",
+    "main.js": "/Misia_photo.de/static/js/main.e9a262a1.js",
+    "static/js/787.d3acb0bf.chunk.js": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js",
+    "static/media/title_photo.png": "/Misia_photo.de/static/media/title_photo.1f65455d0b1a78a5c597.png",
+    "index.html": "/Misia_photo.de/index.html",
+    "main.87c6ed86.css.map": "/Misia_photo.de/static/css/main.87c6ed86.css.map",
+    "main.e9a262a1.js.map": "/Misia_photo.de/static/js/main.e9a262a1.js.map",
+    "787.d3acb0bf.chunk.js.map": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c6ed86.css",
+    "static/js/main.e9a262a1.js"
+  ]
+}

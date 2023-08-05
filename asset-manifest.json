@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/Misia_photo.de/static/css/main.49e339f4.css",
-    "main.js": "/Misia_photo.de/static/js/main.c1d7e513.js",
+    "main.css": "/Misia_photo.de/static/css/main.03bf758e.css",
+    "main.js": "/Misia_photo.de/static/js/main.cc019171.js",
     "static/js/787.d3acb0bf.chunk.js": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js",
     "static/media/title_photo.png": "/Misia_photo.de/static/media/title_photo.1f65455d0b1a78a5c597.png",
     "static/media/second_image.png": "/Misia_photo.de/static/media/second_image.731403608c6c5505c101.png",
     "static/media/women2.png": "/Misia_photo.de/static/media/women2.5efc0ee9830ad0eae38b.png",
+    "static/media/art.png": "/Misia_photo.de/static/media/art.e7300b2561e3c4bcc086.png",
     "static/media/women.png": "/Misia_photo.de/static/media/women.3fd76bb21fdee6f3e472.png",
+    "static/media/brithday.png": "/Misia_photo.de/static/media/brithday.d846ac3398b6a80dc08a.png",
+    "static/media/weding.png": "/Misia_photo.de/static/media/weding.c0f149bb43e556504c61.png",
+    "static/media/session.png": "/Misia_photo.de/static/media/session.acbdac3750cd52795e1f.png",
+    "static/media/concert.png": "/Misia_photo.de/static/media/concert.31b3a225ded2a601e7d1.png",
+    "static/media/fashion.png": "/Misia_photo.de/static/media/fashion.32e04d9a03ffa326ca20.png",
     "static/media/man.png": "/Misia_photo.de/static/media/man.3e7193b681c83a960f6f.png",
     "index.html": "/Misia_photo.de/index.html",
     "static/media/arrow-white.svg": "/Misia_photo.de/static/media/arrow-white.cead44f275bee3f4c3cd7095d9638b08.svg",
     "static/media/arrow-down.svg": "/Misia_photo.de/static/media/arrow-down.502ced3d9934385537988cb49a532ba0.svg",
-    "main.49e339f4.css.map": "/Misia_photo.de/static/css/main.49e339f4.css.map",
-    "main.c1d7e513.js.map": "/Misia_photo.de/static/js/main.c1d7e513.js.map",
+    "main.03bf758e.css.map": "/Misia_photo.de/static/css/main.03bf758e.css.map",
+    "main.cc019171.js.map": "/Misia_photo.de/static/js/main.cc019171.js.map",
     "787.d3acb0bf.chunk.js.map": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49e339f4.css",
-    "static/js/main.c1d7e513.js"
+    "static/css/main.03bf758e.css",
+    "static/js/main.cc019171.js"
   ]
 }

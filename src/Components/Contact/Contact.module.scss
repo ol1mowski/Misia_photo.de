@@ -1,17 +1,11 @@
-.homeContainer {
+.contactContainer {
     width: 100vw;
     height: 100%;
-    background-image: url('../../assets/images/title_photo.png');
+    background-image: url('../../assets/images/footer.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 60% center;
+    background-position:center;
     font-family: 'Dancing Script', cursive;
-    @media screen and (min-width: 1024px) {
-        background-position: 60% 30%;
-    }
-    @media (orientation: landscape)and (min-width: 320px) and (max-width: 920px) {
-        background-position: 60% 30%;
-    }
     &__logo {
         font-size: 3rem;
         padding: 5% 0 0 5%;
@@ -24,13 +18,13 @@
         align-items: center;
         flex-direction: column;
         height: 90vh;
-        gap: 5%;
+        gap: 10%;
         &__firstP {
             font-family: 'Times New Roman', Times, serif;
             text-align: center;
-            font-size: 1.1rem;
+            font-size: 1.2rem;
             @media screen and (min-width: 1024px) {
-                font-size: 1.5rem;
+                font-size: 2rem;
             }
         }
         &__header {
@@ -40,7 +34,7 @@
             line-height: 7vh;
             text-align: center;
             @media screen and (min-width: 1024px) {
-                font-size: 2rem;
+                font-size: 4rem;
             }
         }
         &__button {
@@ -60,6 +54,7 @@
         }
     }
 }
+
 
 @keyframes buttonAnimate {
     0% {

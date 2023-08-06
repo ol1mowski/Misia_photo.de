@@ -1,13 +1,22 @@
+import React from 'react';
+import { useSpring, animated } from 'react-spring';
 import style from './HomePage.module.scss';
 
 const HomePage = () => {
+    // Define the animation properties using useSpring
+    const fadeInAnimation = useSpring({
+        from: { opacity: 0 },
+        to: { opacity: 1 },
+        config: { duration: 2000 }, // Adjust the animation duration as needed
+    });
+
     return (
         <>
-            <section className={style.homeContainer}>
+            <header className={style.homeContainer}>
                 <div className={style.homeContainer__logo}>
                     MMF
                 </div>
-                <div className={style.homeContainer__contentWrapper}>
+                <animated.div className={style.homeContainer__contentWrapper} style={fadeInAnimation}>
                     <div className={style.homeContainer__contentWrapper__firstP}>
                         <p>
                             Wielokrotnie nagradzane studio fotograficzne
@@ -24,10 +33,10 @@ const HomePage = () => {
                             Stwórzmy coś razem!
                         </button>
                     </div>
-                </div>
-            </section>
+                </animated.div>
+            </header>
         </>
-    )
+    );
 }
 
 export default HomePage;

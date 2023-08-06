@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Misia_photo.de/static/css/main.03bf758e.css",
-    "main.js": "/Misia_photo.de/static/js/main.cc019171.js",
+    "main.css": "/Misia_photo.de/static/css/main.ff049a72.css",
+    "main.js": "/Misia_photo.de/static/js/main.130da8e6.js",
     "static/js/787.d3acb0bf.chunk.js": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js",
     "static/media/title_photo.png": "/Misia_photo.de/static/media/title_photo.1f65455d0b1a78a5c597.png",
     "static/media/second_image.png": "/Misia_photo.de/static/media/second_image.731403608c6c5505c101.png",
     "static/media/women2.png": "/Misia_photo.de/static/media/women2.5efc0ee9830ad0eae38b.png",
+    "static/media/footer.png": "/Misia_photo.de/static/media/footer.d925167018bb2a584fa7.png",
     "static/media/art.png": "/Misia_photo.de/static/media/art.e7300b2561e3c4bcc086.png",
     "static/media/women.png": "/Misia_photo.de/static/media/women.3fd76bb21fdee6f3e472.png",
     "static/media/brithday.png": "/Misia_photo.de/static/media/brithday.d846ac3398b6a80dc08a.png",
@@ -17,12 +18,12 @@
     "index.html": "/Misia_photo.de/index.html",
     "static/media/arrow-white.svg": "/Misia_photo.de/static/media/arrow-white.cead44f275bee3f4c3cd7095d9638b08.svg",
     "static/media/arrow-down.svg": "/Misia_photo.de/static/media/arrow-down.502ced3d9934385537988cb49a532ba0.svg",
-    "main.03bf758e.css.map": "/Misia_photo.de/static/css/main.03bf758e.css.map",
-    "main.cc019171.js.map": "/Misia_photo.de/static/js/main.cc019171.js.map",
+    "main.ff049a72.css.map": "/Misia_photo.de/static/css/main.ff049a72.css.map",
+    "main.130da8e6.js.map": "/Misia_photo.de/static/js/main.130da8e6.js.map",
     "787.d3acb0bf.chunk.js.map": "/Misia_photo.de/static/js/787.d3acb0bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03bf758e.css",
-    "static/js/main.cc019171.js"
+    "static/css/main.ff049a72.css",
+    "static/js/main.130da8e6.js"
   ]
 }

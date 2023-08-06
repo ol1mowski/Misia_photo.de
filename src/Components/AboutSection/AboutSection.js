@@ -21,7 +21,7 @@ const AboutSection = () => {
 
     return (
         <>
-            <section ref={inViewRef} className={style.wrapperSection}>
+            <section id='about' ref={inViewRef} className={style.wrapperSection}>
                 <animated.div className={style.wrapperSection__header} style={fadeInAnimation}>
                     <h2>
                         Trochę o MMF

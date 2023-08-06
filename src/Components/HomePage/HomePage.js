@@ -1,5 +1,6 @@
 import React from 'react';
 import { useSpring, animated } from 'react-spring';
+import { Link } from 'react-scroll'; // Import the Link component from react-scroll
 import style from './HomePage.module.scss';
 
 const HomePage = () => {
@@ -29,9 +30,12 @@ const HomePage = () => {
                         </h1>
                     </div>
                     <div className={style.homeContainer__contentWrapper__button}>
-                        <button>
-                            Stwórzmy coś razem!
-                        </button>
+                        {/* Use the Link component for smooth scrolling */}
+                        <Link to="about" smooth={true} duration={1000}>
+                            <button>
+                                Stwórzmy coś razem!
+                            </button>
+                        </Link>
                     </div>
                 </animated.div>
             </header>

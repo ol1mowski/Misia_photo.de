@@ -36,11 +36,15 @@ const Contact = () => {
                         </animated.p>
                     </div>
                     <div className={style.contactContainer__contentWrapper__button}>
+                        <a href='mailto:wp@wp.pl'>
                         <animated.button style={zoomInAnimation}>
                             Umów się na sesję
                         </animated.button>
+                        </a>
                     </div>
+                  
                 </div>
+                <p className={style.copy}>© Copyright 2023. Made by Oliwier Markiewicz</p>
             </animated.footer>
         </>
     );
